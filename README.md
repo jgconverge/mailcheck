@@ -9,7 +9,7 @@ Tool for checking the existence of MX, SPF and DMARC records for domain names.
 ## Installation
 
 ```
-$ go get -v github.com/dstotijn/mailcheck
+$ go install github.com/dstotijn/mailcheck@latest
 ```
 
 ## Usage
